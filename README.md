@@ -1,4 +1,4 @@
-# 🔓 JavaScript, JWTs and the Key That Shouldn’t Exist
+# 🔓 JavaScript, JWT and the Key That Shouldn’t Exist
 
 **Aditya Bhatt** | *VAPT Specialist | Security Writer | JWT Whisperer*
 

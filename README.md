@@ -145,8 +145,10 @@ This was simply the result of **reading what most people ignore** — and trusti
 ---
 
 🦇 **Catch more** practical writeups, tools, and exploit chains here: <br/>
-📖 [GitHub: AdityaBhatt3010](https://github.com/AdityaBhatt3010) <br/>
 🧠 [Medium: Cracking JWTs Series](https://medium.com/@adityabhatt3010/list/cracking-jwts-a-bug-bounty-hunting-guide-289859dc4985) <br/>
+🔗 GitHub: [@AdityaBhatt3010](https://github.com/AdityaBhatt3010) <br/>
+✍️ Medium: [@adityabhatt3010](https://medium.com/@adityabhatt3010) <br/>
+💼 LinkedIn: [Aditya Bhatt](https://www.linkedin.com/in/adityabhatt3010) <br/>
 
 Got an idea or story worth publishing together?
 Let’s build it.
